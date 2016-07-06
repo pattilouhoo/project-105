@@ -1,0 +1,1 @@
+This is a read file for Skill Crush class repo. There is nothing very interesting happening yet. Just some test files to push up to git hub.
